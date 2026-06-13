@@ -51,6 +51,20 @@ Concepts Learned
 * Public Access Management
 * AWS CLI Operations
 
+  ## Screenshots
+
+### Bucket Created
+![Bucket Created](Screenshot%202026-06-13%2017281....png)
+
+### File Uploaded
+![File Uploaded](Screenshot%202026-06-13%2017283....png)
+
+### Website Hosting Configuration
+![Website Hosting](Screenshot%202026-06-13%2017284....png)
+
+### Bucket Policy
+![Bucket Policy](Screenshot%202026-06-13%2017290....png)
+
  Author
 
 Sakthi B
